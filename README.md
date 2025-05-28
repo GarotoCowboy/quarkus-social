@@ -1,4 +1,4 @@
-# Quarkus Social (Projeto de Estudo)
+<div align="center"> <h1>Quarkus Social (Projeto de Estudo)</h1></div>
 
 <div align="center">
 <h3>API para Interações Sociais</h3>
